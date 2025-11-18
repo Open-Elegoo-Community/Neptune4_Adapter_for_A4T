@@ -1,0 +1,10 @@
+# Codeowners file
+
+# Global default owners
+* @open-elegoo-community/contributors
+
+# License owner
+/LICENSE @Beattune @open-elegoo-community/contributors
+
+# Readme file with installation and usage guides
+/README.md @Beattune @open-elegoo-community/contributors
