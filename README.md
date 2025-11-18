@@ -5,7 +5,9 @@ A toolhead adapter by **Beattune**
 > This adapter supports the **Elegoo Neptune 4** with the original **POM-wheel carriage**.  
 > The **Elegoo Neptune 4 Pro** is currently untested and therefore not officially supported.
 
-FIXME example picture
+<p align="center">
+  <img src="images/Example_picture.jpg" height="250">
+</p>
 
 ## Overview
 
@@ -98,7 +100,7 @@ Since this part is a structural adapter for your tool head, prioritize **strengt
 ### 3. Add the M4 Thread to the POM-Wheel Carriage
 - Cut an M4 thread into the **bottom center standoff**.  
 - Thoroughly clean the POM-wheel carriage afterwards.  
-- FIXME picture
+<img src="images/POM-wheel-carriage.jpg" height="200">
 
 ### 4. Reassemble the POM-Wheel Carriage
 - Mount the carriage back onto the X-extrusion and reinstall the top POM wheels.  
@@ -128,3 +130,6 @@ Thanks to everyone who contributed ideas, feedback, or testing to make this adap
 ## Enjoy Your A4T!
 
 Have fun using your A4T tool head with the Elegoo Neptune 4! If you have improvements or suggestions, feel free to open an issue or contribute to the project.
+
+
+[def]: /images/POM-wheel-carriage.jpg
